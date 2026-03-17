@@ -53,3 +53,4 @@
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
 
+[Experiment 1 ECN GADDAVALASA YASHILA 212225050011.pdf](https://github.com/user-attachments/files/26054745/Experiment.1.ECN.GADDAVALASA.YASHILA.212225050011.pdf)
